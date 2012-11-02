@@ -17,23 +17,5 @@ class DefaultController extends Controller
         return array();
     }
 
-    /**
-     * @Route("/zaskroniec.html", name="_animals_zaskroniec")
-     * @Template()
-     */
-    public function zaskroniecAction()
-    {
-        return array();
-    }
-
-    /**
-     * @Route("/zmija.html", name="_animals_zmija")
-     * @Template()
-     */
-    public function zmijaAction()
-    {
-        return array();
-    }
-
 }
-ÿÿ
+ÿÿÿÿ
