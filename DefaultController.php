@@ -16,6 +16,14 @@ class DefaultController extends Controller
     {
         return array();
     }
+    
+    /**
+     * @Route("/zaba.html", name="_animals_zaba")
+     * @Template()
+     */
+    public function zabaAction()
+    {
+        return array();
+    }
 
 }
-ÿÿÿÿ
