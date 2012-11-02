@@ -12,7 +12,7 @@ class DefaultController extends Controller
      * @Route("/{slug}.html", name="show")
      * @Template()
      */
-    public function showAction($slug)
+    public function showAction($slug = 'index')
     {
         $slugs = array();
 
