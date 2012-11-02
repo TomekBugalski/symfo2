@@ -1,5 +1,6 @@
 symfo2
 ======
 
-pierwszy projekt
-pierwsza zmiana - dodanie nowej linii
+pierwszy projekt;
+pierwsza zmiana - dopisek;
+kolejna zmiana - poprawienie poprzedniego wpisu;
